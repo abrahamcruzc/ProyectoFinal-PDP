@@ -12,7 +12,7 @@
 - [Documento de Factibilidad](documentos/DocumentoFactibilidad.pdf)  
 - [Charter](documentos/)  
 - [Propuesta](documentos/Propuesta.pdf)  
-- [ERS](documentos/Documento de Requerimiento.pdf)  
+- [ERS](documentos/DocumentodeRequerimiento.pdf)  
 
 # Documentos de planes subsidiarios, líneas bases, costos y cronogramas
 
