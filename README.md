@@ -9,7 +9,7 @@
 - [Modelo de Negocio](documentos/)  
 - [Ventaja Competitiva](documentos/)  
 - [Caso de Negocio](documentos/CasoDeNegocio.pdf)  
-- [Documento de Factibilidad](documentos/)  
+- [Documento de Factibilidad](documentos/DocumentoFactibilidad.pdf)  
 - [Charter](documentos/)  
 - [Propuesta](documentos/Propuesta.pdf)  
 - [ERS](documentos/)  
