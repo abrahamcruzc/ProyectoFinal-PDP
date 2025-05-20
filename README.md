@@ -16,7 +16,7 @@
 
 # Documentos de planes subsidiarios, líneas bases, costos y cronogramas
 
-- [Cronograma del proyecto](documentos/)  
+- [Cronograma del proyecto](documentos/CronogramaDelProyecto)  
 - [Plan de gestión de costes y línea base de costes](documentos/)  
 - [Plan de gestión de riesgos](documentos/)  
 - [Plan de gestión de configuración y de cambios](documentos/PlanDeGestión-ConfiguraciónyCambios.pdf)  
