@@ -6,8 +6,8 @@
 
 # Documentos de planeación
 
-- [Modelo de Negocio](documentos/)  
-- [Ventaja Competitiva](documentos/)  
+- [Modelo de Negocio](documentos/ModeloNegocios.jpg)  
+- [Ventaja Competitiva](documentos/VentajaCompetitiva.jpg)  
 - [Caso de Negocio](documentos/CasoDeNegocio.pdf)  
 - [Documento de Factibilidad](documentos/DocumentoFactibilidad.pdf)  
 - [Charter](documentos/Charter.pdf)  
