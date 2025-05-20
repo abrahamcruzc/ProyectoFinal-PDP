@@ -1,10 +1,14 @@
 # ProyectoFinal-PDP
 
+- **Abraham Raymundo Cruz Colli**
+- **Emir Alejandro Bellos Cruz**
+- **Luis Javier Quintana Olivera**
+
 # Documentos de planeación
 
 - [Modelo de Negocio](documentos/)  
 - [Ventaja Competitiva](documentos/)  
-- [Caso de Negocio](documentos/)  
+- [Caso de Negocio](documentos/CasoDeNegocio.pdf)  
 - [Documento de Factibilidad](documentos/)  
 - [Charter](documentos/)  
 - [Propuesta](documentos/Propuesta.pdf)  
