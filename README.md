@@ -23,7 +23,7 @@
 
 # Plantillas que se planean usar
 
-- [Plantilla de Bitácora de Cambios](documentos/)  
-- [Plantilla de Acta de Reuniones](documentos/)  
-- [Plantilla de Aceptación de Finalización](documentos/)  
-- [Plantilla de Informe de Cierre](documentos/)  
+- [Plantilla de Bitácora de Cambios](documentos/Plantillas.pdf)  
+- [Plantilla de Acta de Reuniones](documentos/Plantillas.pdf)  
+- [Plantilla de Aceptación de Finalización](documentos/Plantillas.pdf)  
+- [Plantilla de Informe de Cierre](documentos/Plantillas.pdf)  
