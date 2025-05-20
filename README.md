@@ -19,7 +19,7 @@
 - [Cronograma del proyecto](documentos/)  
 - [Plan de gestión de costes y línea base de costes](documentos/)  
 - [Plan de gestión de riesgos](documentos/)  
-- [Plan de gestión de configuración y de cambios](documentos/)  
+- [Plan de gestión de configuración y de cambios](documentos/PlanDeGestión-ConfiguraciónyCambios.pdf)  
 
 # Plantillas que se planean usar
 
